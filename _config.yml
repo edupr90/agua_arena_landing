@@ -36,7 +36,7 @@ features:
     fontawesome_icon_name: umbrella-beach
 
   - title: Navigate
-    description: Not sure how to get there? Press the beach detail map and navigate using Google Maps.
+    description: Not sure how to get there? Press the beach detail map on how to navigate using Google Maps.
     fontawesome_icon_name: map
 
   - title: Enjoy
