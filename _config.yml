@@ -33,15 +33,15 @@ youtube_username:
 features:
   - title: Discover or Explore
     description: Discover or explore the beautiful beaches of Puerto Rico
-    fontawesome_icon_name: thin umbrella-beach
+    fontawesome_icon_name: umbrella-beach
 
   - title: Navigate
     description: Doubts about how to get there. Press the beach detail map and navigate using Google Maps
-    fontawesome_icon_name: maps
+    fontawesome_icon_name: map
 
   - title: Enjoy
     description: Discover the five beaches of the month. Invite family or friends to meet new beaches of the month
-    fontawesome_icon_name: face-sunglases
+    fontawesome_icon_name: sunglases
 
   - title: # New Feature Title
     description: # New Feature Description
