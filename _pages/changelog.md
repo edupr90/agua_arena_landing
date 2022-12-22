@@ -43,7 +43,7 @@ Abnormal and formidable against much the before well improper more spent far her
 
 Agua y Arena is extremely grateful for using our application to enjoy the beautiful beaches of Puerto Rico. Here at Agua y Arena we are always here to help you with any questions. Use the following email to contact us.
 
-support@aguayarena.com
+<a href="support@aguayarena.com">support@aguayarena.com</a>
 
 <br>
 
