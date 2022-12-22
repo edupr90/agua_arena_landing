@@ -61,6 +61,7 @@ We keep making update to keep an awesome app.
 #### What's New
 
 - Colors! We added colors into the app.
+- Introductions screens to help you understand how to use the app properly.
 - Text fixes.
 
 <!-- #### Bug Fixes
