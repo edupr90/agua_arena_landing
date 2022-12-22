@@ -41,7 +41,7 @@ Abnormal and formidable against much the before well improper more spent far her
 
 # **Version 1.0**
 
-Welcome to Agua y Arena an app to find the most beautiful beache of Puerto Rico. Come and join use to keep exploring and discovering new beaches.
+Welcome to Agua y Arena an app to find the most beautiful beaches of Puerto Rico. Come and join use to keep exploring and discovering new beaches.
 
 <br>
 
