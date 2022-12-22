@@ -64,7 +64,7 @@ Abnormal and formidable against much the before well improper more spent far her
 
 <br> -->
 
-## Version 1.0.2 Android
+## Android Version 1.0.2
 
 We keep making update to keep an awesome app.
 
