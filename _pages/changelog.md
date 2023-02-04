@@ -81,3 +81,25 @@ We keep making update to keep an awesome app.
 - Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately. -->
 
 <br>
+
+## Version 1.0.2 iOS
+
+We keep making update to keep an awesome app.
+
+#### What's New
+
+- Weather have arrive! Now when looking a beach real time weather will be available
+- Push Notifications! Stay up to date with our push notifications
+- Intro view will be display one time only
+
+<br>
+
+## Version 1.0.4 Android
+
+We keep making update to keep an awesome app.
+
+#### What's New
+
+- Weather have arrive! Now when looking a beach real time weather will be available
+- Push Notifications! Stay up to date with our push notifications
+- Intro view will be display one time only
