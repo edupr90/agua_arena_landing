@@ -94,7 +94,7 @@ We keep making update to keep an awesome app.
 
 <br>
 
-## Version 1.0.4 Android
+## Version 1.0.3 Android
 
 We keep making update to keep an awesome app.
 
