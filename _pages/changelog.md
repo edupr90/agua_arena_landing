@@ -103,3 +103,16 @@ We keep making update to keep an awesome app.
 - Weather have arrive! Now when looking a beach real time weather will be available
 - Push Notifications! Stay up to date with our push notifications
 - Intro view will be display one time only
+
+<br>
+
+## Version 1.0.3 iOS
+
+We keep making update to keep an awesome app.
+
+#### What's New
+
+- Squish bug! Some iPhone devices Google Maps did not load properly.
+- Weather have arrive! Now when looking a beach real time weather will be available
+- Push Notifications! Stay up to date with our push notifications
+- Intro view will be display one time only
