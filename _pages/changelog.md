@@ -116,3 +116,11 @@ We keep making update to keep an awesome app.
 - Weather have arrive! Now when looking a beach real time weather will be available
 - Push Notifications! Stay up to date with our push notifications
 - Intro view will be display one time only
+
+## Version 1.0.4 Android
+
+We keep making update to keep an awesome app.
+
+#### What's New
+
+- Google Maps fixes
