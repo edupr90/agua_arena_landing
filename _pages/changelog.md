@@ -124,3 +124,11 @@ We keep making update to keep an awesome app.
 #### What's New
 
 - Google Maps fixes
+
+## Version 1.0.4 iOS
+
+We keep making update to keep an awesome app.
+
+#### What's New
+
+- Minor UI Fixes.
