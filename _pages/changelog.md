@@ -132,3 +132,19 @@ We keep making update to keep an awesome app.
 #### What's New
 
 - Minor UI Fixes.
+
+## Version 1.0.5 iOS
+
+We keep making update to keep an awesome app.
+
+#### What's New
+
+- Minor Fixes.
+
+## Version 1.0.5 Android
+
+We keep making update to keep an awesome app.
+
+#### What's New
+
+- Minor Fixes.
