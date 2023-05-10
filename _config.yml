@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/agua_arena_icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Agua y Arena # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Looking for some inspiration for your next beach adventure in Puerto Rico? Let Agua y Arena be your guide! Our mobile app recommends the top five beaches of the month to help you discover new and exciting places to soak up the sun and surf.
+app_description:Whether you're a local or a visitor, Agua y Arena is the perfect tool for exploring the best beaches Puerto Rico has to offer. So download the app today and start planning your next beach adventure!
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -32,7 +32,7 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: Discover or Explore!
-    description: Whether you're a local or a visitor, Agua y Arena is the perfect tool for exploring the best beaches Puerto Rico has to offer. So download the app today and start planning your next beach adventure!
+    description: Looking for some inspiration for your next beach adventure in Puerto Rico? Let Agua y Arena be your guide! Our mobile app recommends the top five beaches of the month to help you discover new and exciting places to soak up the sun and surf.
     fontawesome_icon_name: umbrella-beach
 
   - title: Navigate
