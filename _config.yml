@@ -31,7 +31,7 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Discover or Explore
+  - title: Discover or Explore!
     description: Whether you're a local or a visitor, Agua y Arena is the perfect tool for exploring the best beaches Puerto Rico has to offer. So download the app today and start planning your next beach adventure!
     fontawesome_icon_name: umbrella-beach
 
